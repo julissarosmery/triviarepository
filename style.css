@@ -7,3 +7,8 @@ body {
     min-height: 75px;
     width: 50%;
   }
+  body{
+  
+    background-image: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0)), url("http://alegorias.es/wp-content/uploads/2016/04/33c54d2b5665fd05040386e0339c28f3.jpg");
+    
+  }
